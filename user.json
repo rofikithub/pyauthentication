@@ -1,0 +1,11 @@
+{
+    "id": 255,
+    "user": "Rofik talukdar",
+    "name": "Box labeling system",
+    "version": "1.0.1",
+    "price": 1000,
+    "mode": "Monthly",
+    "start": "2024-06-01",
+    "end": "2024-06-30",
+    "status": "Active"
+}
